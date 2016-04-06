@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min-",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Styles/_variables.less",
+			"settings":
+			{
+				"buffer_size": 25868,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Styles/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 163757,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Styles/theme.less",
+			"settings":
+			{
+				"buffer_size": 35355,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Layouts/Site.Master",
+			"settings":
+			{
+				"buffer_size": 11795,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Lava/AdRotator.lava",
+			"settings":
+			{
+				"buffer_size": 1041,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/inetpub/wwwroot/rockrms/Themes/HallmarkRockTheme",
+		"/C/inetpub/wwwroot/rockrms/Themes/HallmarkRockTheme/Assets",
+		"/C/inetpub/wwwroot/rockrms/Themes/HallmarkRockTheme/Layouts",
+		"/C/inetpub/wwwroot/rockrms/Themes/HallmarkRockTheme/Styles"
+	],
+	"file_history":
+	[
+		"/C/inetpub/wwwroot/rockrms/Plugins/readme.txt",
+		"/E/Plugins/readme.txt",
+		"/E/Themes/Hallmark/Layouts/Site.Master",
+		"/E/Themes/Hallmark/Layouts/Homepage.aspx",
+		"/E/Themes/Hallmark/Styles/bootstrap.css",
+		"/E/Themes/Hallmark/Styles/theme.css",
+		"/C/Users/Nathan/Documents/Rainmeter/Skins/Serenity/Weather/Weather White.ini",
+		"/C/Users/Nathan/Google Drive/RockRMS/email/default-email-header-value.html",
+		"/C/Users/Nathan/Google Drive/RockRMS/email/default-email-footer-value.html",
+		"/E/bottradionetwork.com/wp-content/themes/bott/header.php",
+		"/C/ProgramData/{DDB23571-8D30-E4F7-3CB6-9475EC3447FB}/1.9.3.1/fiber.js",
+		"/E/wp-content/themes/charter/single-person.php",
+		"/E/wp-content/themes/charter/page_people.php",
+		"/E/wp-content/themes/charter/style.css",
+		"/C/Windows/system32/433a2f50726f6772616d446174612f7b44444232333537312d384433302d453446372d334342362d3934373545433334343746427d2f312e392e332e312f6c6f636f2e646c6c",
+		"/C/Users/Nathan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Windows/system32/687474703a2f2f73616f2e62696e6b702e636f6d2f",
+		"/C/Users/Nathan/Google Drive/Zebra Printer/Hallmark Custom Labels/Hallmark-Child (Text Only)-v3.prn",
+		"/C/Users/Nathan/Nitrous/staging/www/autolab/wp-content/themes/autolab/page.php",
+		"/C/Users/Nathan/Nitrous/staging/www/autolab/wp-content/themes/autolab/page-sidebar-right.php",
+		"/C/Users/Nathan/Nitrous/staging/www/autolab/wp-content/themes/autolab/sidebar.php",
+		"/C/Users/Nathan/Nitrous/staging/www/autolab/wp-content/themes/autolab/sidebar-left.php",
+		"/C/Users/Nathan/Documents/GitHub/marketing/wp-content/themes/chartboost/single.php",
+		"/C/Users/Nathan/Documents/GitHub/marketing/wp-content/themes/chartboost/search.php",
+		"/C/Users/Nathan/Nitrous/staging/www/autolab/wp-content/themes/autolab/Gruntfile.js",
+		"/C/Users/Nathan/Nitrous/staging/www/autolab/wp-content/themes/autolab/page-home.php",
+		"/C/Users/Nathan/Nitrous/staging/www/autolab/wp-content/themes/autolab/js/custom/app.js",
+		"/C/Users/Nathan/Nitrous/staging/www/autolab/wp-content/themes/autolab/footer.php",
+		"/C/Users/Nathan/Nitrous/staging/www/autolab/wp-content/themes/autolab/js/foundation.js",
+		"/C/Users/Nathan/Nitrous/staging/www/autolab/wp-content/themes/autolab/js/foundation.equalizer.js",
+		"/C/Users/Nathan/.ssh/id_rsa",
+		"/C/Users/Nathan/Downloads/vimeo-api-examples-master/vimeo-api-examples-master/simple-api/gallery/js-example.html",
+		"/C/Users/Nathan/Desktop/HALLMARK/Facebook/html/messages.htm"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ImageUrl",
+			"3120",
+			"638e2b",
+			"nav-tabs-active-link-hover-color",
+			"@nav-tabs-active-link-hover-color",
+			"8bc540",
+			"equalizer",
+			"rock"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Styles/_variables.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4819,
+								4819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Styles/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113253,
+								113253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 89681.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Styles/theme.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10153,
+								10153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6731.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Layouts/Site.Master",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9248,
+								9248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ASP/HTML-ASP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Assets/Lava/AdRotator.lava",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

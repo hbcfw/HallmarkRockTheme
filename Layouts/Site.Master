@@ -86,12 +86,12 @@
                         <div class="logo-container">
                             <div class="logo-full hidden-xs" style="position: absolute; width: 500px;">
                                 <a href="/home">
-                                    <asp:Image ImageUrl="~/Content/Central/NewPointeLogo.png" CssClass="hidden-xs" runat="server" />
+                                    <asp:Image ImageUrl="~/Content/ExternalSite/ThemeImages/logo_text.svg" CssClass="hidden-xs" runat="server" />
                                 </a>
                             </div>
                             <div class="logo-small hidden-sm hidden-md hidden-lg">
                                 <a href="/home">
-                                    <asp:Image ImageUrl="~/Content/Central/NewPointeLogoSmall.png" runat="server" />
+                                    <asp:Image ImageUrl="~/Content/ExternalSite/ThemeImages/logo.svg" runat="server" />
                                 </a>
                             </div>
                         </div>
@@ -214,21 +214,20 @@
 
                 <div class="row">
                     <div class="col-sm-6 social-icons">
-                        <a href="https://www.facebook.com/newpointecommunitychurch">
+                        <a href="https://www.facebook.com/hallmarkbc">
                             <div class="social-circle"><i class="fa fa-facebook"></i></div>
                         </a>
-                        <a href="https://twitter.com/newpointechurch">
+                        <a href="http://twitter.com/HallmarkBC">
                             <div class="social-circle"><i class="fa fa-twitter"></i></div>
                         </a>
-                        <a href="http://instagram.com/newpointechurch">
+                        <a href="https://www.instagram.com/hallmarkbc/">
                             <div class="social-circle"><i class="fa fa-instagram"></i></div>
                         </a>
                     </div>
 
                     <div class="col-sm-6 campus-address">
-                        Central Operations:
-                            <address>3950 SR. 39 NW | Dover, OH 44622</address>
-                        Tel: <a href="tel:3306025600">330.602.5600</a> | Fax: 330.602.5636
+                        <address>4201 W. Risinger Rd. | Ft. Worth, TX 76123</address>
+                        Tel: <a href="tel:8173700123">817.370.0123</a>
                     </div>
                 </div>
 
@@ -241,7 +240,7 @@
                         <a href="https://newpointe.org/jobs">EMPLOYMENT</a> | <a href="https://newpointe.org/contact">CONTACT US</a>
                     </div>
                     <div class="col-xs-12 col-sm-6 text-xs-center text-sm-right">
-                        <div class="copyright">&copy; 2016 NewPointe Community Church | All Rights Reserved</div> 
+                        <div class="copyright">&copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> Hallmark Baptist Church | All Rights Reserved</div> 
                     </div>
                 </div>
             </div>
